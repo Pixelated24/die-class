@@ -47,4 +47,4 @@ private:
 int faceValue; ///the face value of the die
 int numSides; ///number of faces of the die
 };
-4. #end
+#endif

@@ -19,4 +19,7 @@ for (size_t i = 0; i < 6; i++) {
 cout << "Roll: " << d12.roll() << endl;
 }
 return 0;
+while (true){
+    
+}
 }

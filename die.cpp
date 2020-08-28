@@ -2,6 +2,8 @@
 #include <fstream>
 #include <cstdlib>
 #include "die.h"
+#include <ctime>
+
 using namespace std;
 //Constructors
 Die::Die(){ //default 6 sides
